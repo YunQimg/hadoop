@@ -1,3 +1,3 @@
-# Hadoop and HBase 笔记
+# Hadoop and HBase learning notes
 
 
